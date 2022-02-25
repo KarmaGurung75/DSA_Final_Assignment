@@ -47,24 +47,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/softwarica college online/2nd year semester/DSA/jarfile/jar_files (2)/guava-19.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/softwarica college online/2nd year semester/DSA/jarfile/jar_files (2)/jung-algorithms-2.1.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://D:/softwarica college online/2nd year semester/DSA/jarfile/jar_files (2)/jung-api-2.1.1.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -100,11 +82,11 @@
     </orderEntry>
     <orderEntry type="module-library">
       <library>
-        <CLASSES />
+        <CLASSES>
+          <root url="jar://D:/softwarica college online/2nd year semester/DSA/jarfile/jar_files (2)/guava-31.0.1-jre.jar!/" />
+        </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/src" />
-        </SOURCES>
+        <SOURCES />
       </library>
     </orderEntry>
   </component>
