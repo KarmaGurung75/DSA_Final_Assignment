@@ -1,0 +1,2 @@
+1;kathmandu;Inside KAthmandu
+2;baktapur;baktapur area
